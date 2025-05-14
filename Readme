@@ -1,6 +1,6 @@
 Nama      : Nurul Diah Rahmadiah
-Prodi     : Teknik Elektro
-Jurusan   : Teknologi Informasi
+Prodi     : Teknologi Informasi
+Jurusan   : Teknik Elektro 
 NIM       : 3202339007
 
 def tambah(a, b):
