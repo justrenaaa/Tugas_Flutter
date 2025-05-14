@@ -1,6 +1,7 @@
 Nama      : Nurul Diah Rahmadiah
 Prodi     : Teknik Elektro
 Jurusan   : Teknologi Informasi
+NIM       : 3202339007
 
 def tambah(a, b):
     return a + b
